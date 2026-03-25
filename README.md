@@ -1,6 +1,6 @@
 # Global Linux
 
->**Linux for evryone!!**
+>**Linux for everyone!!**
 
  **One Experience. Three Engines. Your Choice.**
 
