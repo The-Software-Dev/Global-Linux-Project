@@ -1,7 +1,8 @@
 # Global Linux
 
 >**Linux for evryone!!**
-> **One Experience. Three Engines. Your Choice.**
+
+ **One Experience. Three Engines. Your Choice.**
 
 Global Linux is an ambitious meta-distribution designed to provide a unified, highly customizable user experience across the three major Linux ecosystems: **Debian/Ubuntu (APT)**, **Fedora (DNF)**, and **Arch (Pacman)**.
 
