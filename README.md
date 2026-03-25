@@ -12,8 +12,8 @@ Why choose between a stable base and your favorite package manager? Global Linux
 
 ---
 
-## 🛠 Features (In Development)
-- **Unified Global UI:** A custom desktop environment setup (GNOME/KDE) that looks identical across all three versions.
+## 🛠 Features 
+- *Your os Your UI* A list of desktop-enviroments to chose from!
 - **The "Bridge" CLI:** A universal command-line tool to manage updates and system info regardless of the backend.
 - **Centralized Configs:** Standardized dotfiles and system tweaks shared across all versions.
 
@@ -40,9 +40,5 @@ I am currently a student and cannot build this massive project alone. I am looki
 
 ## 💬 Get in Touch
 If you want to help, please:
-1.  **Open an Issue** and introduce yourself!
-2.  Check the **Projects** tab for current tasks.
-3.  [Insert Discord/Matrix Link Here]
-
----
-*Created with ❤️ by the Global Linux Community.*
+Contact me at my Email(viserwatse@gmail.com)
+   
