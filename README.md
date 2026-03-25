@@ -38,7 +38,8 @@ I am currently a student and cannot build this massive project alone. I am looki
 
 ---
 
-## 💬 Get in Touch
+##  Get in Touch
 If you want to help, please:
 Contact me at my Email(viserwatse@gmail.com)
+And join the Discord (https://discord.gg/mhHA9QNH)
    
